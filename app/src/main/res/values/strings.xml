@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">weathermap</string>
+    <string name="placeholder">Ort</string>
+    <string name="hum">Luftfeuchtigkeit:</string>
+    <string name="temp">Temperatur:</string>
+    <string name="desc">Beschreibung:</string>
+    <string name="button">Suche</string>
+</resources>
